@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/JobApplyApp/static/css/main.96f1e1b6.chunk.css",
+    "main.js": "/JobApplyApp/static/js/main.3516aa18.chunk.js",
+    "main.js.map": "/JobApplyApp/static/js/main.3516aa18.chunk.js.map",
+    "runtime-main.js": "/JobApplyApp/static/js/runtime-main.e4f8e44c.js",
+    "runtime-main.js.map": "/JobApplyApp/static/js/runtime-main.e4f8e44c.js.map",
+    "static/css/2.c22d25ed.chunk.css": "/JobApplyApp/static/css/2.c22d25ed.chunk.css",
+    "static/js/2.242b3e81.chunk.js": "/JobApplyApp/static/js/2.242b3e81.chunk.js",
+    "static/js/2.242b3e81.chunk.js.map": "/JobApplyApp/static/js/2.242b3e81.chunk.js.map",
+    "static/js/3.6a1027a4.chunk.js": "/JobApplyApp/static/js/3.6a1027a4.chunk.js",
+    "static/js/3.6a1027a4.chunk.js.map": "/JobApplyApp/static/js/3.6a1027a4.chunk.js.map",
+    "index.html": "/JobApplyApp/index.html",
+    "static/css/2.c22d25ed.chunk.css.map": "/JobApplyApp/static/css/2.c22d25ed.chunk.css.map",
+    "static/css/main.96f1e1b6.chunk.css.map": "/JobApplyApp/static/css/main.96f1e1b6.chunk.css.map",
+    "static/js/2.242b3e81.chunk.js.LICENSE.txt": "/JobApplyApp/static/js/2.242b3e81.chunk.js.LICENSE.txt",
+    "static/media/1F44D.f0d66532.svg": "/JobApplyApp/static/media/1F44D.f0d66532.svg",
+    "static/media/1F5D3.8e8202f1.svg": "/JobApplyApp/static/media/1F5D3.8e8202f1.svg",
+    "static/media/Group137.58f687ac.svg": "/JobApplyApp/static/media/Group137.58f687ac.svg",
+    "static/media/Path968.a3113292.svg": "/JobApplyApp/static/media/Path968.a3113292.svg",
+    "static/media/Path969.1fdc7e17.svg": "/JobApplyApp/static/media/Path969.1fdc7e17.svg",
+    "static/media/Path970.b9550519.svg": "/JobApplyApp/static/media/Path970.b9550519.svg",
+    "static/media/index.css": "/JobApplyApp/static/media/sora-latin-ext-400-normal.065f112c.woff2",
+    "static/media/man.0f0b20fb.svg": "/JobApplyApp/static/media/man.0f0b20fb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4f8e44c.js",
+    "static/css/2.c22d25ed.chunk.css",
+    "static/js/2.242b3e81.chunk.js",
+    "static/css/main.96f1e1b6.chunk.css",
+    "static/js/main.3516aa18.chunk.js"
+  ]
+}
